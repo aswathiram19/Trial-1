@@ -1,5 +1,3 @@
 # Trial-1
-This is a trial repo
-**This is bold**
-_This is italic_
-**This is bold and _italic_**
+**This is a trial repo**
+_This is a demo repository_
